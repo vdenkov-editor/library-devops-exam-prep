@@ -1,5 +1,6 @@
 [
     {"name" : "A Song of Ice and Fire", "author" : "George R. R. Martin"},
     {"name" : "Shogun" , "author" : "James Clavell"},
-    {"name" : "To Kill a Mockingbird" , "author" : "Harper Lee"}
+    {"name" : "To Kill a Mockingbird" , "author" : "Harper Lee"},
+    {"name" : "@vas.denkov" , "author" : "softuni"}
 ]
